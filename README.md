@@ -15,7 +15,7 @@ We will include the path in our VS Code Extention
 
 ## Conda
 
-You must download Anaconda from (c:\users\sakshis\anaconda3\lib\site-packages\)
+You must download Anaconda from [Anaconda Link](c:\users\sakshis\anaconda3\lib\site-packages\)
 This will ask you for your email and a download will be sent to your email
 Simply follow the download instructions and once finished open Command Terminal
 In your Command Terminal we will once again type in `where python
