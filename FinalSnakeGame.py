@@ -7,17 +7,21 @@ import random
 # Screen setup
 wn = turtle.Screen()
 wn.title("Snake Game")
-wn.bgcolor("yellow")
+wn.bgcolor("yellow")  # Or use hex wn.bgcolor('#a83279')
 wn.setup(600, 600)
 wn.tracer(0)
 
 # Snake Base Position
 snake = turtle.Turtle()
-snake.shape("square")
+snake.shape("square") # Other built in shapes : arrow, turtle, triangle, classic. You can also import your own image / gif. 
 snake.color("black")
 snake.penup()
 snake.direction = "stop"  # stop is a place holder (doesn't mean anything)
 
+#upload image example 
+#image uploaded : my_shape.png
+#code : wn.register_shape("my_shape.png") background image
+# snake.shape("my_shape.png")
 
 # Food Base Position
 food = turtle.Turtle()
