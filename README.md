@@ -9,13 +9,13 @@ If your import turtle does not work we can do one of two things
 
 ## Venv
 
-Simply go on your terminal and include `pip install virtualenv
-Afterwards we will do `where python in order to find our path 
+Simply go on your terminal and include `pip install virtualenv`
+Afterwards we will do `where python` in order to find our path 
 We will include the path in our VS Code Extention 
 
 ## Conda
 
-You must download Anaconda from c:\users\sakshis\anaconda3\lib\site-packages\
+You must download Anaconda from (c:\users\sakshis\anaconda3\lib\site-packages\)
 This will ask you for your email and a download will be sent to your email
 Simply follow the download instructions and once finished open Command Terminal
 In your Command Terminal we will once again type in `where python
