@@ -3,7 +3,7 @@ This project explores working with Python Turtle to create illustrations. In par
 [Session Slideshow](https://docs.google.com/presentation/d/1crGjLQfiGPgkb1KX-RQ8up60FhHkR7VltnIl4S9vC60/edit#slide=id.g6edfa80311_0_1506)
 
 ## Turtle
-
+Check out the IntroTurtleGameMaking.md file for more information
 
 # Venv or Conda Installation
 If your import turtle does not work we can do one of two things 
