@@ -89,6 +89,6 @@ screen.mainloop()  # Keep the window open
   - Interaction: You can add keyboard or mouse input to interact with the turtle.
 
 ## Why is Turtle Useful?
-    - Great for beginners: Turtle is a fantastic way to start programming because it’s very visual. You can immediately see the results of your code, making it easier to understand how things work.
-    - Helps with logic: When making games, you practice writing logic (like controlling how things move, checking for conditions, etc.).
-Fun to use: It’s interactive and creative, which can make learning programming more enjoyable.
+    Great for beginners: Turtle is a fantastic way to start programming because it’s very visual. You can immediately see the results of your code, making it easier to understand how things work.
+    Helps with logic: When making games, you practice writing logic (like controlling how things move, checking for conditions, etc.).
+    Fun to use: It’s interactive and creative, which can make learning programming more enjoyable.
