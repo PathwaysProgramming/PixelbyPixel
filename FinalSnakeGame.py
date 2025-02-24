@@ -65,6 +65,12 @@ wn.onkeypress(go_down, "s")
 wn.onkeypress(go_left, "a")
 wn.onkeypress(go_right, "d")
 
+# Adding arrow key bindings
+# wn.onkeypress(go_up, "Up")  # Up arrow for up
+# wn.onkeypress(go_down, "Down")  # Down arrow for down
+# wn.onkeypress(go_left, "Left")  # Left arrow for left
+# wn.onkeypress(go_right, "Right")  # Right arrow for right
+
 # Game loop (Rules)
 speed = 0.1
 
